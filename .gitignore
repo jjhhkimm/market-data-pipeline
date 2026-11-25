@@ -1,0 +1,10 @@
+# Build output
+market_pipeline
+*.exe
+*.o
+*.obj
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
